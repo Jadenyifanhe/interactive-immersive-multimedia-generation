@@ -4,7 +4,7 @@
 
 This is the project repository for CMU 10-615 Art and Machine Learning's final project. Given a spoken speech as input, we generate a film that consits of music, lyrics, and images.
 
-Our resulting videos can be found under the /video directory.
+Our final outputs can be found under the `/video` directory.
 
 ## Our Team
 
@@ -15,9 +15,9 @@ Our resulting videos can be found under the /video directory.
 
 ## Report & Presentation
 
-Our report is included in this repository. You can also check out our report via [this link](https://docs.google.com/document/d/1n7jtXed6hKWhCfQGKV0GhT0UWBGgBF_y/edit?usp=sharing&ouid=100645612073317945557&rtpof=true&sd=true).
+Our report is included in this repository (see `report.pdf`). You can also check out our report via [this link](https://docs.google.com/document/d/1n7jtXed6hKWhCfQGKV0GhT0UWBGgBF_y/edit?usp=sharing&ouid=100645612073317945557&rtpof=true&sd=true).
 
-Our presentation slide can be found [here](https://docs.google.com/presentation/d/119QP-hJ5BajnJeNcwqrSVAARHUDr09Vg1w8m0VyIjGA/edit?usp=sharing).
+Our presentation slide has also been uploaded to this repo (see `presentation.pdf`). It could also be found [here](https://docs.google.com/presentation/d/119QP-hJ5BajnJeNcwqrSVAARHUDr09Vg1w8m0VyIjGA/edit?usp=sharing).
 
 # References
 
